@@ -38,13 +38,49 @@ This repository showcases a UI/UX prototype for an **Electric Vehicle (EV) Map i
 👉 [Figma Wireframe (Read-Only)](https://www.figma.com/design/fiRxGmTAa7NPhyIN6iat6W/wireframe?m=auto&t=llmyg1a1urNugdIq-6)
 ---
 
-## 👤 User Personas (Summary)
+## 👤 User Persona
 
-| Persona        | Key Traits                           | Goals                           | Pain Points                         |
-|----------------|---------------------------------------|----------------------------------|-------------------------------------|
-| Tech-Savvy Driver | 28, uses EV daily, mobile-first      | Quick access to chargers         | Hates complex menus                 |
-| Long-Distance Traveler | 45, drives cross-country           | Reliable route planning          | Inconsistent station data           |
-| First-Time EV User | 34, new to EV world                 | Easy onboarding & guidance       | Overwhelmed by app complexity       |
+To better understand the end-user needs, a detailed persona has been crafted based on a high-profile, security-conscious individual — **Bruce Wayne**.
+
+### 🔋 "Dark Charge: Secure and Efficient EV Navigation for the Modern Hero"
+
+> _"In the shadows, preparation is key. Efficiency in all things—especially when recharging."_
+
+### 💼 Persona Summary
+
+| Attribute       | Description                         |
+|----------------|-------------------------------------|
+| **Name**       | Bruce Wayne                         |
+| **Age**        | 34                                   |
+| **Occupation** | CEO of Wayne Enterprises            |
+| **Location**   | Gotham City                         |
+| **Status**     | Single                              |
+
+---
+
+### 🧠 Core Needs
+- Fast, unobtrusive access to **secure EV charging stations**
+- Cutting-edge technology for **quick and efficient** charging
+- **Accurate** and **up-to-date info** on availability and security
+
+### ⚠️ Pain Points
+- 🚫 **Insecurity** at public stations
+- 🧯 **Outdated tech** with poor charging options
+- 🕵️‍♂️ **Crowded, high-profile** stations that compromise privacy
+
+### 📊 Behavior
+- Prefers **late-night** charging to avoid crowds
+- Relies heavily on **advanced tech**
+- Values **safety, discretion**, and **efficiency**
+
+### 🔧 Skills
+- Leadership
+- Martial Arts
+- Problem Solving
+
+---
+
+📎 [View Full User Persona (PDF)](user%20personas.pdf)
 
 ---
 

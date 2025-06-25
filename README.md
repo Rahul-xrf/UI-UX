@@ -22,15 +22,6 @@ This repository showcases a UI/UX prototype for an **Electric Vehicle (EV) Map i
 
 ---
 
-## 📁 What's Included
-
-- `ev-map-wireframe.pdf` – Complete low-fidelity to mid-fidelity wireframe
-- `user-personas.pdf` – Key user personas with pain points & goals
-- `homepage-ui.png` – UI screenshot of the main map screen
-- `charging-point-details.png` – UI of individual charging station info
-
----
-
 ## 🔗 Figma Prototype
 
 > You can view the live prototype here:  
@@ -77,20 +68,6 @@ To better understand the end-user needs, a detailed persona has been crafted bas
 - Leadership
 - Martial Arts
 - Problem Solving
-
----
-
-📎 [View Full User Persona (PDF)](user%20personas.pdf)
-
----
-
-## 📸 UI Previews
-
-### 📍 EV Map Interface
-![Map UI](homepage-ui.png)
-
-### 🔌 Charging Point Details
-![Charging Details](charging-point-details.png)
 
 ---
 
